@@ -7,11 +7,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1612879302,
-        "narHash": "sha256-/gK73/1C+X1asjMFvNqZtgEndMUUDOlvIBb6dKmhE9w=",
+        "lastModified": 1616851404,
+        "narHash": "sha256-uUKqGHCQGBJi9EGE9sZBclh6KpNKej/nJCRoXBrwEHA=",
         "owner": "onsails",
         "repo": "cargo2nix",
-        "rev": "f3fd143af5392fc780444ecee8fef9e0239fcf9a",
+        "rev": "a9956591b799ba397faa588d60b8b7bade316850",
         "type": "github"
       },
       "original": {
@@ -69,10 +69,10 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1615339886,
-        "narHash": "sha256-8BxuX2XrG8E2eQL5YrxKMM7uzPR3lFo4IM27a+be5mQ=",
-        "path": "/nix/store/ckakrkcgfsb9f6ls0dqhjd2mz38qjiqy-source",
-        "rev": "12074e7e86250abf628ae6cb3def359465e3f0ba",
+        "lastModified": 1618343055,
+        "narHash": "sha256-yux3woyNtMt6ynYRq7+DYe19CC+SoI/LJW+zSJd0UOs=",
+        "path": "/nix/store/y2w8z0vr1cq7ns07mla22x5c7d7mvcqz-source",
+        "rev": "e019872af81e4013fd518fcacfba74b1de21a50e",
         "type": "path"
       },
       "original": {
@@ -105,11 +105,11 @@
     },
     "utils_2": {
       "locked": {
-        "lastModified": 1614513358,
-        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
+        "lastModified": 1618217525,
+        "narHash": "sha256-WGrhVczjXTiswQaoxQ+0PTfbLNeOQM6M36zvLn78AYg=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
+        "rev": "c6169a2772643c4a93a0b5ac1c61e296cba68544",
         "type": "github"
       },
       "original": {
